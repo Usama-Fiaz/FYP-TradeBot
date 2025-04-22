@@ -4,7 +4,7 @@ A sophisticated Forex Trading Bot that combines machine learning predictions wit
 
 ![Authentication Background](https://i.ibb.co/nrQYCVC/authentication-bg.jpg)
 
-## Demo Video
+## Demo Video Link
 [Watch the Demo](https://drive.google.com/file/d/1DXq7jF5JqbEvCWVBkcpkmKn-HJHmL9Os/view?usp=drive_link)
 
 ## Features
@@ -87,10 +87,6 @@ Welcome to the trading bot web application! This application allows users to mak
 The bot uses a combination of machine learning algorithms and natural language processing techniques to analyze various market influencing factors, including tweets, news articles, and technical indicator data. It then uses this analysis to make smart market predictions and execute trades on behalf of the user.
 
 With this application, users can take advantage of the power of AI to make informed and profitable trades, without the need for extensive market analysis and manual trade execution.
-
-## Demo Video Link
-
-https://drive.google.com/file/d/1DXq7jF5JqbEvCWVBkcpkmKn-HJHmL9Os/view?usp=drive_link
 
 ## Installation 
 
